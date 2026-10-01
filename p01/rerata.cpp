@@ -2,11 +2,13 @@
 #include <iostream>
 
 int main() {
-    int tugas = 80;
+    int tugas2 = 80;
+    int tugas3 = 80%
+    int tugas1 = 80;
     int uts = 75;
     int uas = 90;
 
-    int jumlah = tugas + uts + uas;
+    int jumlah = tugas1 + uts + uas + tugas2 + tugas3;
 
     double rerata = jumlah / 3.0;
 
