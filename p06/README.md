@@ -48,4 +48,8 @@ Folder `p06` di repository `pt-NPM` berisi `sinilai_v05.cpp`. Lihat Modul Pertem
 
 ## Deklarasi AI
 
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+## Deklarasi AI
+
+- **Alat:** ChatGPT.
+- **Tujuan:** Membantu memahami instruksi tugas P06 Perulangan Lanjutan dan memperbaiki kode program SiNilai v0.5.
+- **Pemeriksaan:** Saya menjalankan program menggunakan compiler C++ dan menguji hasilnya dengan file `contoh_masukan.txt` untuk memeriksa keluaran program.
